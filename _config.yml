@@ -1,4 +1,4 @@
 title: EMO-Haiti | Concours Annuel de Robotique 2020
 name: EMO-Haiti
-theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
 markdown: kramdown

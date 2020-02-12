@@ -4,7 +4,7 @@ EMO-Haïti lance officiellement la deuxieme édition du Concours Annuel de Robot
 EMO-Haïti est une entreprise a but non-lucratif qui oeuvre pour l'integration
 effective des nouvelles technologies dans l'education en Haiti. Pour plus 
 d'information sur EMO-Haïti, ses activites et sa vision, priere de consulter
-www.emohaiti.com 
+<a href="https://www.emohaiti.com">www.emohaiti.com</a> 
 
 Le concours annuel de robotique vise les eleves du troisieme cycle
  fondamental et tout universitaire n’ayant pas encore obtenu sa première 
@@ -31,3 +31,11 @@ Priere de faire une contribution et de partager le lien avec vos amis et collegu
 
 La finale du concours se tiendra durant la troisieme edition du sommet EdTech Haiti 
 durant le mois de Juillet 2020.
+
+# Comment nous supporter
+
+1. Faire une contribution sur <a href="https://www.emohaiti.com/fundraising">www.emohaiti.com/fundraising</a> et partager le lien avec 
+collegues et amis 
+2. Like notre page facebook et Instagram, suivez-nous sur Twitter @emohaiti
+3. Nous ecrire sur support@emohaiti.com pour rejoindre le comite d'organisation, 
+offrir votre support ou partager des suggestions

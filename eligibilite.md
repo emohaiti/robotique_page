@@ -1,7 +1,7 @@
 # Conditions de Participation
 
 Le concours annuel de robotique est ouvert a tous les jeunes de moins de 25 ans
-residant en Haiti qui satisfaitent les criteres suivants:
+residant en Haiti qui satisfont les criteres suivants:
 1. Etre de l’ecole fondamentale, (entre la septième et le dernier niveau du 
 troisième cycle fondamental) ou un universitaire n’ayant pas encore boucle
 ses etudes de premier cycle universitaire (licence).
